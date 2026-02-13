@@ -11,7 +11,7 @@ print ("==== Operadores Matematicos====")
 # *
 # /
 # ==
-# % Modulossss
+# % Modulo
 edad = 16
 if(edad >= 18):
    print("Si puedo entrar al bar!")
