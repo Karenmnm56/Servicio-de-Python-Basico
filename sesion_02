@@ -16,5 +16,5 @@ mi_diccionario = {
     "Tel": "663-4579047"
 }
 print("Llave para accesara a mi diccionario mi_lista", mi_diccionario["mi_lista"])
-print("Llave para accesara a mi diccionario pi", mi_diccionario["pi"])
+print("Llave para accesara a mi diccionario pi", mi_diccionario["Pi"])
 print("Llave para accesara a mi diccionario Tel", mi_diccionario["Tel"])
